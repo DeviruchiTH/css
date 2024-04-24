@@ -62,7 +62,7 @@
 
 @font-face {
   font-family: maehonson;
-  src: url('../fonts/PKMaehongson-Medium.ttf');
+  src: url('https://cdn.jsdelivr.net/gh/DeviruchiTH/css@main/PKMaehongson-Medium.ttf');
 }
 
 #vm-viewcam {

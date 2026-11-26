@@ -62,9 +62,8 @@
 
 @font-face {
   font-family: maehonson;
-  src: url('https://cdn.jsdelivr.net/gh/DeviruchiTH/css@main/PKMaehongson-Medium.ttf');
+  src: url('https://cdn.jsdelivr.net/gh/DeviruchiTH/css@main/PKMaehongson-Medium.ttf') format('truetype');
 }
-
 #vm-viewcam {
   float: right;
 }
